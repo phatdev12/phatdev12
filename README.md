@@ -9,9 +9,8 @@ I just a simple fullstack developer. I'm a coding junkie!
 - Enjoys coding and math. A little bit about the games.
 - Proficient in Javascript, Typescript, Python, Java languages.
 
-<div align="center">
-  
-  <a href="https://github.com/phatdev12" title="website hit counter"><img src="https://counter6.optistats.ovh/private/freecounterstat.php?c=34jn1q5fzf7zwj5fqaleex4ska6g5caq" border="0" title="website hit counter" alt="website hit counter"></a>
-</div>
+<a href="https://github.com/phatdev12">
+    <img height="50px" src="https://visitcount.itsvg.in/api?id=phatdev12&label=Visitors&color=12&&pretty=true" />
+  </a>
 
 
