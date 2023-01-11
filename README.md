@@ -36,7 +36,5 @@
 
 <br>
 
-<a href="https://github.com/phatdev12">
-    <img height="30px" src="https://visitcount.itsvg.in/api?id=phatdev12&label=Visitors&color=12&&pretty=true"/>
-</a>
+<a href="https://hits.sh/github.com/phatdev12/"><img alt="Hits" src="https://profile-counter.glitch.me/phatdev/count.svg"/></a>
 
