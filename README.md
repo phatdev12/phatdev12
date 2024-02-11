@@ -5,7 +5,10 @@
     <table>
         <tr>
             <td>
-                <img align="right" height="450px" src="https://github.com/phatdev12/phatdev12/blob/main/devcard.svg"/>
+                <div align="right">
+                    <br>
+                    <img align="right" height="450px" src="https://github.com/phatdev12/phatdev12/blob/main/devcard.svg"/>
+                </div>
                 <h2>Other</h2>
                 <ul>    
                     <li>Student from Vietnam.</li>
@@ -15,7 +18,8 @@
                     <li>Proficient in Javascript, Typescript, Python, Java languages.</li>
                     <li>A little bit about Golang, Rust, C#, C/C++, Lua,... (I can use any language if that language has documentation)</li>
                 </ul>
-                <br>
+                <h2>Discord Profile</h2>
+                <span>‍ ‍ ‍ ‍ ‍</span><img src="https://discord-readme-badge.vercel.app/api?id=989176587469586482"/>
             </td>
         </tr>
         <tr>
