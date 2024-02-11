@@ -10,7 +10,7 @@
                     <br>
                     <img align="right" height="450px" src="https://github.com/phatdev12/phatdev12/blob/main/devcard.svg"/>
                 </div>
-                <h2>Other</h2>
+                <h2> ‍ ‍Other</h2>
                 <ul>    
                     <li>Student from Vietnam.</li>
                     <li>Web Application Developer, Algorithm, Basic Data Science,...</li>
@@ -19,7 +19,7 @@
                     <li>Proficient in Javascript, Typescript, Python, Java languages.</li>
                     <li>A little bit about Golang, Rust, C#, C/C++, Lua,... (I can use any language if that language has documentation)</li>
                 </ul>
-                <h2>Discord Profile</h2>
+                <h2> ‍ ‍Discord Profile</h2>
                 <span>‍ ‍ ‍ ‍ ‍</span><a href="https://discord.com/users/989176587469586482"><img src="https://discord-readme-badge.vercel.app/api?id=989176587469586482"/></a>
             </td>
         </tr>
@@ -27,11 +27,11 @@
             <td>
                 <table align="center">
                     <td>
-                        <h2>Playing</h2>
+                        <h2> ‍ ‍Playing</h2>
                         <img src="https://spotify-github-profile.vercel.app/api/view?uid=31atwjjntby7tk6j2xodxggmlio4&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false"/>
                     </td>
                     <td>
-                        <h2>Spotify Recently Played</h2>
+                        <h2> ‍ ‍Spotify Recently Played</h2>
                         <br>
                         <br>
                         <br>
