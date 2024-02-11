@@ -3,7 +3,7 @@
 <p><b>🤡 I am just a stupid developer 🤡</b></p>
 
 <div>
-    <table>
+    <table align="center">
         <tr>
             <td>
                 <div align="right">
