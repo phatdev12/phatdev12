@@ -1,5 +1,6 @@
 # About me
-<p><b> I am just a ordinary developer</b></p>
+
+<p><b>🤡 I am just a stupid developer 🤡</b></p>
 
 <div>
     <table>
