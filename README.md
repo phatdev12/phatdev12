@@ -44,6 +44,8 @@
 
 </div>
 
+<!--START_SECTION:activity-->
+
 # My Repository
 
 [Giam Sat Mode](https://github.com/phatdev12/giam-sat-mode) - Monitoring mode when taking the test.
