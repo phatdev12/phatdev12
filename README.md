@@ -55,23 +55,8 @@
 7. 🎉 Merged PR [#2](https://github.com/phatdev12/phatdev-portfolio/pull/2) in [phatdev12/phatdev-portfolio](https://github.com/phatdev12/phatdev-portfolio)
 <!--END_SECTION:activity-->
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-### My Repository
-
-[Giam Sat Mode](https://github.com/phatdev12/giam-sat-mode) - Monitoring mode when taking the test.
-
-[Discial](https://github.com/Folody-Team/Discial) - A package module and a framework for discord bots to develop.
-
-[Shartube](https://github.com/sharproject/Shartube) - Online sharing platform.
-
-### Test stack
-**React.js, Electron.js, Vue.js, Express.js, GraphQL,...**
-
 
 #### ❤ Follow me if you are interested or like me.
-
-<br>
 
 <a href="https://hits.sh/github.com/phatdev12/"><img alt="Hits" src="https://profile-counter.glitch.me/phatdev/count.svg"/></a>
 
