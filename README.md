@@ -55,6 +55,8 @@
 7. ❗ Opened issue [#1](https://github.com/phatdev12/phatdev-portfolio/issues/1) in [phatdev12/phatdev-portfolio](https://github.com/phatdev12/phatdev-portfolio)
 <!--END_SECTION:activity-->
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 ### My Repository
 
 [Giam Sat Mode](https://github.com/phatdev12/giam-sat-mode) - Monitoring mode when taking the test.
