@@ -39,20 +39,16 @@
                     </td>
                 </table>
             </td>
-        </tr>  
+        </tr> 
+        <tr>
+            <td>
+                <!--START_SECTION:activity-->
+            </td>
+        </tr>
     </table>
 
 </div>
 
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#1043](https://github.com/aiko-chan-ai/discord.js-selfbot-v13/issues/1043#issuecomment-1935696311) in [aiko-chan-ai/discord.js-selfbot-v13](https://github.com/aiko-chan-ai/discord.js-selfbot-v13)
-2. 🗣 Commented on [#1043](https://github.com/aiko-chan-ai/discord.js-selfbot-v13/issues/1043#issuecomment-1935699301) in [aiko-chan-ai/discord.js-selfbot-v13](https://github.com/aiko-chan-ai/discord.js-selfbot-v13)
-3. 🗣 Commented on [#1043](https://github.com/aiko-chan-ai/discord.js-selfbot-v13/issues/1043#issuecomment-1935459970) in [aiko-chan-ai/discord.js-selfbot-v13](https://github.com/aiko-chan-ai/discord.js-selfbot-v13)
-4. 🔒 Closed issue [#1](https://github.com/phatdev12/phatdev-portfolio/issues/1) in [phatdev12/phatdev-portfolio](https://github.com/phatdev12/phatdev-portfolio)
-5. 🎉 Merged PR [#2](https://github.com/phatdev12/phatdev-portfolio/pull/2) in [phatdev12/phatdev-portfolio](https://github.com/phatdev12/phatdev-portfolio)
-6. 💪 Opened PR [#2](https://github.com/phatdev12/phatdev-portfolio/pull/2) in [phatdev12/phatdev-portfolio](https://github.com/phatdev12/phatdev-portfolio)
-7. ❗ Opened issue [#1](https://github.com/phatdev12/phatdev-portfolio/issues/1) in [phatdev12/phatdev-portfolio](https://github.com/phatdev12/phatdev-portfolio)
-<!--END_SECTION:activity-->
 
 # My Repository
 
