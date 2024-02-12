@@ -14,7 +14,7 @@
                 <ul>    
                     <li>Student from Vietnam.</li>
                     <li>Web Application Developer, Algorithm, Basic Data Science,...</li>
-                    <li>Just 17 years old.</li>
+                    <li>Just 18 years old.</li>
                     <li>Enjoys coding and math. A little bit about the games.</li>
                     <li>Proficient in Javascript, Typescript, Python, Java languages.</li>
                     <li>A little bit about Golang, Rust, C#, C/C++, Lua,... (I can use any language if that language has documentation)</li>
@@ -40,9 +40,12 @@
                 </table>
             </td>
         </tr> 
-        <tr>
-            <td>
-                <!--START_SECTION:activity-->
+    </table>
+
+</div>
+
+### Recent Activity
+<!--START_SECTION:activity-->
 1. 🗣 Commented on [#1043](https://github.com/aiko-chan-ai/discord.js-selfbot-v13/issues/1043#issuecomment-1935696311) in [aiko-chan-ai/discord.js-selfbot-v13](https://github.com/aiko-chan-ai/discord.js-selfbot-v13)
 2. 🗣 Commented on [#1043](https://github.com/aiko-chan-ai/discord.js-selfbot-v13/issues/1043#issuecomment-1935699301) in [aiko-chan-ai/discord.js-selfbot-v13](https://github.com/aiko-chan-ai/discord.js-selfbot-v13)
 3. 🗣 Commented on [#1043](https://github.com/aiko-chan-ai/discord.js-selfbot-v13/issues/1043#issuecomment-1935459970) in [aiko-chan-ai/discord.js-selfbot-v13](https://github.com/aiko-chan-ai/discord.js-selfbot-v13)
@@ -51,14 +54,8 @@
 6. 💪 Opened PR [#2](https://github.com/phatdev12/phatdev-portfolio/pull/2) in [phatdev12/phatdev-portfolio](https://github.com/phatdev12/phatdev-portfolio)
 7. ❗ Opened issue [#1](https://github.com/phatdev12/phatdev-portfolio/issues/1) in [phatdev12/phatdev-portfolio](https://github.com/phatdev12/phatdev-portfolio)
 <!--END_SECTION:activity-->
-            </td>
-        </tr>
-    </table>
 
-</div>
-
-
-# My Repository
+### My Repository
 
 [Giam Sat Mode](https://github.com/phatdev12/giam-sat-mode) - Monitoring mode when taking the test.
 
