@@ -46,13 +46,13 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/phatdev12/phatdev12/pull/1) in [phatdev12/phatdev12](https://github.com/phatdev12/phatdev12)
-2. 🎉 Merged PR [#2](https://github.com/phatdev12/phatdev12/pull/2) in [phatdev12/phatdev12](https://github.com/phatdev12/phatdev12)
-3. 🗣 Commented on [#1043](https://github.com/aiko-chan-ai/discord.js-selfbot-v13/issues/1043#issuecomment-1935696311) in [aiko-chan-ai/discord.js-selfbot-v13](https://github.com/aiko-chan-ai/discord.js-selfbot-v13)
-4. 🗣 Commented on [#1043](https://github.com/aiko-chan-ai/discord.js-selfbot-v13/issues/1043#issuecomment-1935699301) in [aiko-chan-ai/discord.js-selfbot-v13](https://github.com/aiko-chan-ai/discord.js-selfbot-v13)
-5. 🗣 Commented on [#1043](https://github.com/aiko-chan-ai/discord.js-selfbot-v13/issues/1043#issuecomment-1935459970) in [aiko-chan-ai/discord.js-selfbot-v13](https://github.com/aiko-chan-ai/discord.js-selfbot-v13)
-6. 🔒 Closed issue [#1](https://github.com/phatdev12/phatdev-portfolio/issues/1) in [phatdev12/phatdev-portfolio](https://github.com/phatdev12/phatdev-portfolio)
-7. 🎉 Merged PR [#2](https://github.com/phatdev12/phatdev-portfolio/pull/2) in [phatdev12/phatdev-portfolio](https://github.com/phatdev12/phatdev-portfolio)
+1. ❗ Opened issue [#3](https://github.com/phatdev12/phatdev-portfolio/issues/3) in [phatdev12/phatdev-portfolio](https://github.com/phatdev12/phatdev-portfolio)
+2. 🎉 Merged PR [#1](https://github.com/phatdev12/phatdev12/pull/1) in [phatdev12/phatdev12](https://github.com/phatdev12/phatdev12)
+3. 🎉 Merged PR [#2](https://github.com/phatdev12/phatdev12/pull/2) in [phatdev12/phatdev12](https://github.com/phatdev12/phatdev12)
+4. 🗣 Commented on [#1043](https://github.com/aiko-chan-ai/discord.js-selfbot-v13/issues/1043#issuecomment-1935696311) in [aiko-chan-ai/discord.js-selfbot-v13](https://github.com/aiko-chan-ai/discord.js-selfbot-v13)
+5. 🗣 Commented on [#1043](https://github.com/aiko-chan-ai/discord.js-selfbot-v13/issues/1043#issuecomment-1935699301) in [aiko-chan-ai/discord.js-selfbot-v13](https://github.com/aiko-chan-ai/discord.js-selfbot-v13)
+6. 🗣 Commented on [#1043](https://github.com/aiko-chan-ai/discord.js-selfbot-v13/issues/1043#issuecomment-1935459970) in [aiko-chan-ai/discord.js-selfbot-v13](https://github.com/aiko-chan-ai/discord.js-selfbot-v13)
+7. 🔒 Closed issue [#1](https://github.com/phatdev12/phatdev-portfolio/issues/1) in [phatdev12/phatdev-portfolio](https://github.com/phatdev12/phatdev-portfolio)
 <!--END_SECTION:activity-->
 
 
