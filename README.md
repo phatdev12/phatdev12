@@ -7,7 +7,7 @@
         <tr>
             <td>
                 <div align="right">
-                    <br>
+                    <br/>
                     <img align="right" height="450px" src="https://github.com/phatdev12/phatdev12/blob/main/devcard.svg"/>
                 </div>
                 <h2> ‍ ‍Other</h2>
@@ -32,9 +32,9 @@
                     </td>
                     <td>
                         <h2> ‍ ‍Spotify Recently Played</h2>
-                        <br>
-                        <br>
-                        <br>
+                        <br/>
+                        <br/>
+                        <br/>
                         <img align="top" src="https://spotify-recently-played-readme.vercel.app/api?user=31atwjjntby7tk6j2xodxggmlio4&count=5"/>
                     </td>
                 </table>
