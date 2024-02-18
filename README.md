@@ -46,13 +46,13 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#3](https://github.com/phatdev12/phatdev-portfolio/issues/3) in [phatdev12/phatdev-portfolio](https://github.com/phatdev12/phatdev-portfolio)
-2. 🎉 Merged PR [#4](https://github.com/phatdev12/phatdev-portfolio/pull/4) in [phatdev12/phatdev-portfolio](https://github.com/phatdev12/phatdev-portfolio)
-3. 💪 Opened PR [#4](https://github.com/phatdev12/phatdev-portfolio/pull/4) in [phatdev12/phatdev-portfolio](https://github.com/phatdev12/phatdev-portfolio)
-4. ❗ Opened issue [#3](https://github.com/phatdev12/phatdev-portfolio/issues/3) in [phatdev12/phatdev-portfolio](https://github.com/phatdev12/phatdev-portfolio)
-5. 🎉 Merged PR [#1](https://github.com/phatdev12/phatdev12/pull/1) in [phatdev12/phatdev12](https://github.com/phatdev12/phatdev12)
-6. 🎉 Merged PR [#2](https://github.com/phatdev12/phatdev12/pull/2) in [phatdev12/phatdev12](https://github.com/phatdev12/phatdev12)
-7. 🗣 Commented on [#1043](https://github.com/aiko-chan-ai/discord.js-selfbot-v13/issues/1043#issuecomment-1935696311) in [aiko-chan-ai/discord.js-selfbot-v13](https://github.com/aiko-chan-ai/discord.js-selfbot-v13)
+1. 🎉 Merged PR [#5](https://github.com/phatdev12/phatdev-portfolio/pull/5) in [phatdev12/phatdev-portfolio](https://github.com/phatdev12/phatdev-portfolio)
+2. 💪 Opened PR [#5](https://github.com/phatdev12/phatdev-portfolio/pull/5) in [phatdev12/phatdev-portfolio](https://github.com/phatdev12/phatdev-portfolio)
+3. 🔒 Closed issue [#3](https://github.com/phatdev12/phatdev-portfolio/issues/3) in [phatdev12/phatdev-portfolio](https://github.com/phatdev12/phatdev-portfolio)
+4. 🎉 Merged PR [#4](https://github.com/phatdev12/phatdev-portfolio/pull/4) in [phatdev12/phatdev-portfolio](https://github.com/phatdev12/phatdev-portfolio)
+5. 💪 Opened PR [#4](https://github.com/phatdev12/phatdev-portfolio/pull/4) in [phatdev12/phatdev-portfolio](https://github.com/phatdev12/phatdev-portfolio)
+6. ❗ Opened issue [#3](https://github.com/phatdev12/phatdev-portfolio/issues/3) in [phatdev12/phatdev-portfolio](https://github.com/phatdev12/phatdev-portfolio)
+7. 🎉 Merged PR [#1](https://github.com/phatdev12/phatdev12/pull/1) in [phatdev12/phatdev12](https://github.com/phatdev12/phatdev12)
 <!--END_SECTION:activity-->
 
 
