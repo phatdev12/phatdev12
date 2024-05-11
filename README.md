@@ -46,13 +46,13 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/phatdev12/phatdev-portfolio/pull/5) in [phatdev12/phatdev-portfolio](https://github.com/phatdev12/phatdev-portfolio)
-2. 💪 Opened PR [#5](https://github.com/phatdev12/phatdev-portfolio/pull/5) in [phatdev12/phatdev-portfolio](https://github.com/phatdev12/phatdev-portfolio)
-3. 🔒 Closed issue [#3](https://github.com/phatdev12/phatdev-portfolio/issues/3) in [phatdev12/phatdev-portfolio](https://github.com/phatdev12/phatdev-portfolio)
-4. 🎉 Merged PR [#4](https://github.com/phatdev12/phatdev-portfolio/pull/4) in [phatdev12/phatdev-portfolio](https://github.com/phatdev12/phatdev-portfolio)
-5. 💪 Opened PR [#4](https://github.com/phatdev12/phatdev-portfolio/pull/4) in [phatdev12/phatdev-portfolio](https://github.com/phatdev12/phatdev-portfolio)
-6. ❗ Opened issue [#3](https://github.com/phatdev12/phatdev-portfolio/issues/3) in [phatdev12/phatdev-portfolio](https://github.com/phatdev12/phatdev-portfolio)
-7. 🎉 Merged PR [#1](https://github.com/phatdev12/phatdev12/pull/1) in [phatdev12/phatdev12](https://github.com/phatdev12/phatdev12)
+1. 💪 Opened PR [#3](https://github.com/iotran207/Atlantis/pull/3) in [iotran207/Atlantis](https://github.com/iotran207/Atlantis)
+2. ❌ Closed PR [#2](https://github.com/iotran207/Atlantis/pull/2) in [iotran207/Atlantis](https://github.com/iotran207/Atlantis)
+3. 💪 Opened PR [#2](https://github.com/iotran207/Atlantis/pull/2) in [iotran207/Atlantis](https://github.com/iotran207/Atlantis)
+4. 🎉 Merged PR [#5](https://github.com/phatdev12/phatdev-portfolio/pull/5) in [phatdev12/phatdev-portfolio](https://github.com/phatdev12/phatdev-portfolio)
+5. 💪 Opened PR [#5](https://github.com/phatdev12/phatdev-portfolio/pull/5) in [phatdev12/phatdev-portfolio](https://github.com/phatdev12/phatdev-portfolio)
+6. 🔒 Closed issue [#3](https://github.com/phatdev12/phatdev-portfolio/issues/3) in [phatdev12/phatdev-portfolio](https://github.com/phatdev12/phatdev-portfolio)
+7. 🎉 Merged PR [#4](https://github.com/phatdev12/phatdev-portfolio/pull/4) in [phatdev12/phatdev-portfolio](https://github.com/phatdev12/phatdev-portfolio)
 <!--END_SECTION:activity-->
 
 
