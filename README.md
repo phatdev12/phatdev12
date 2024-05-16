@@ -46,13 +46,13 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/iotran207/Atlantis/pull/5#issuecomment-2112687199) in [iotran207/Atlantis](https://github.com/iotran207/Atlantis)
-2. 💪 Opened PR [#5](https://github.com/iotran207/Atlantis/pull/5) in [iotran207/Atlantis](https://github.com/iotran207/Atlantis)
-3. 💪 Opened PR [#3](https://github.com/iotran207/Atlantis/pull/3) in [iotran207/Atlantis](https://github.com/iotran207/Atlantis)
-4. ❌ Closed PR [#2](https://github.com/iotran207/Atlantis/pull/2) in [iotran207/Atlantis](https://github.com/iotran207/Atlantis)
-5. 💪 Opened PR [#2](https://github.com/iotran207/Atlantis/pull/2) in [iotran207/Atlantis](https://github.com/iotran207/Atlantis)
-6. 🎉 Merged PR [#5](https://github.com/phatdev12/phatdev-portfolio/pull/5) in [phatdev12/phatdev-portfolio](https://github.com/phatdev12/phatdev-portfolio)
-7. 💪 Opened PR [#5](https://github.com/phatdev12/phatdev-portfolio/pull/5) in [phatdev12/phatdev-portfolio](https://github.com/phatdev12/phatdev-portfolio)
+1. 🗣 Commented on [#5](https://github.com/iotran207/Atlantis/pull/5#issuecomment-2114118493) in [iotran207/Atlantis](https://github.com/iotran207/Atlantis)
+2. 🗣 Commented on [#5](https://github.com/iotran207/Atlantis/pull/5#issuecomment-2112687199) in [iotran207/Atlantis](https://github.com/iotran207/Atlantis)
+3. 💪 Opened PR [#5](https://github.com/iotran207/Atlantis/pull/5) in [iotran207/Atlantis](https://github.com/iotran207/Atlantis)
+4. 💪 Opened PR [#3](https://github.com/iotran207/Atlantis/pull/3) in [iotran207/Atlantis](https://github.com/iotran207/Atlantis)
+5. ❌ Closed PR [#2](https://github.com/iotran207/Atlantis/pull/2) in [iotran207/Atlantis](https://github.com/iotran207/Atlantis)
+6. 💪 Opened PR [#2](https://github.com/iotran207/Atlantis/pull/2) in [iotran207/Atlantis](https://github.com/iotran207/Atlantis)
+7. 🎉 Merged PR [#5](https://github.com/phatdev12/phatdev-portfolio/pull/5) in [phatdev12/phatdev-portfolio](https://github.com/phatdev12/phatdev-portfolio)
 <!--END_SECTION:activity-->
 
 
