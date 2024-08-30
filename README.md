@@ -46,12 +46,12 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/code-ga/reddit-place-clone/pull/3#issuecomment-2227298051) in [code-ga/reddit-place-clone](https://github.com/code-ga/reddit-place-clone)
-2. 💪 Opened PR [#3](https://github.com/code-ga/reddit-place-clone/pull/3) in [code-ga/reddit-place-clone](https://github.com/code-ga/reddit-place-clone)
-3. 🗣 Commented on [#1](https://github.com/phatdev12/labber/issues/1#issuecomment-2179805585) in [phatdev12/labber](https://github.com/phatdev12/labber)
-4. ❗ Opened issue [#1](https://github.com/phatdev12/labber/issues/1) in [phatdev12/labber](https://github.com/phatdev12/labber)
-5. 🗣 Commented on [#5](https://github.com/iotran207/Atlantis/pull/5#issuecomment-2114118493) in [iotran207/Atlantis](https://github.com/iotran207/Atlantis)
-6. 🗣 Commented on [#5](https://github.com/iotran207/Atlantis/pull/5#issuecomment-2112687199) in [iotran207/Atlantis](https://github.com/iotran207/Atlantis)
+1. 🗣 Commented on [#1](https://github.com/thedtvn/AI-client-project/pull/1#issuecomment-2320912209) in [thedtvn/AI-client-project](https://github.com/thedtvn/AI-client-project)
+2. 💪 Opened PR [#1](https://github.com/thedtvn/AI-client-project/pull/1) in [thedtvn/AI-client-project](https://github.com/thedtvn/AI-client-project)
+3. 🗣 Commented on [#3](https://github.com/code-ga/reddit-place-clone/pull/3#issuecomment-2227298051) in [code-ga/reddit-place-clone](https://github.com/code-ga/reddit-place-clone)
+4. 💪 Opened PR [#3](https://github.com/code-ga/reddit-place-clone/pull/3) in [code-ga/reddit-place-clone](https://github.com/code-ga/reddit-place-clone)
+5. 🗣 Commented on [#1](https://github.com/phatdev12/labber/issues/1#issuecomment-2179805585) in [phatdev12/labber](https://github.com/phatdev12/labber)
+6. ❗ Opened issue [#1](https://github.com/phatdev12/labber/issues/1) in [phatdev12/labber](https://github.com/phatdev12/labber)
 7. 💪 Opened PR [#5](https://github.com/iotran207/Atlantis/pull/5) in [iotran207/Atlantis](https://github.com/iotran207/Atlantis)
 <!--END_SECTION:activity-->
 
