@@ -46,13 +46,13 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/thedtvn/AI-client-project/pull/1#issuecomment-2320912209) in [thedtvn/AI-client-project](https://github.com/thedtvn/AI-client-project)
-2. 💪 Opened PR [#1](https://github.com/thedtvn/AI-client-project/pull/1) in [thedtvn/AI-client-project](https://github.com/thedtvn/AI-client-project)
-3. 🗣 Commented on [#3](https://github.com/code-ga/reddit-place-clone/pull/3#issuecomment-2227298051) in [code-ga/reddit-place-clone](https://github.com/code-ga/reddit-place-clone)
-4. 💪 Opened PR [#3](https://github.com/code-ga/reddit-place-clone/pull/3) in [code-ga/reddit-place-clone](https://github.com/code-ga/reddit-place-clone)
-5. 🗣 Commented on [#1](https://github.com/phatdev12/labber/issues/1#issuecomment-2179805585) in [phatdev12/labber](https://github.com/phatdev12/labber)
-6. ❗ Opened issue [#1](https://github.com/phatdev12/labber/issues/1) in [phatdev12/labber](https://github.com/phatdev12/labber)
-7. 💪 Opened PR [#5](https://github.com/iotran207/Atlantis/pull/5) in [iotran207/Atlantis](https://github.com/iotran207/Atlantis)
+1. 🎉 Merged PR [#1](https://github.com/tobycm/rannus-frontend/pull/1) in [tobycm/rannus-frontend](https://github.com/tobycm/rannus-frontend)
+2. 💪 Opened PR [#1](https://github.com/tobycm/rannus-frontend/pull/1) in [tobycm/rannus-frontend](https://github.com/tobycm/rannus-frontend)
+3. 🗣 Commented on [#1](https://github.com/thedtvn/AI-client-project/pull/1#issuecomment-2320912209) in [thedtvn/AI-client-project](https://github.com/thedtvn/AI-client-project)
+4. 💪 Opened PR [#1](https://github.com/thedtvn/AI-client-project/pull/1) in [thedtvn/AI-client-project](https://github.com/thedtvn/AI-client-project)
+5. 🗣 Commented on [#3](https://github.com/code-ga/reddit-place-clone/pull/3#issuecomment-2227298051) in [code-ga/reddit-place-clone](https://github.com/code-ga/reddit-place-clone)
+6. 💪 Opened PR [#3](https://github.com/code-ga/reddit-place-clone/pull/3) in [code-ga/reddit-place-clone](https://github.com/code-ga/reddit-place-clone)
+7. 🗣 Commented on [#1](https://github.com/phatdev12/labber/issues/1#issuecomment-2179805585) in [phatdev12/labber](https://github.com/phatdev12/labber)
 <!--END_SECTION:activity-->
 
 
