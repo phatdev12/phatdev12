@@ -46,13 +46,13 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/thedtvn/AI-client-project/pull/2) in [thedtvn/AI-client-project](https://github.com/thedtvn/AI-client-project)
-2. 🎉 Merged PR [#1](https://github.com/tobycm/rannus-frontend/pull/1) in [tobycm/rannus-frontend](https://github.com/tobycm/rannus-frontend)
-3. 💪 Opened PR [#1](https://github.com/tobycm/rannus-frontend/pull/1) in [tobycm/rannus-frontend](https://github.com/tobycm/rannus-frontend)
-4. 🗣 Commented on [#1](https://github.com/thedtvn/AI-client-project/pull/1#issuecomment-2320912209) in [thedtvn/AI-client-project](https://github.com/thedtvn/AI-client-project)
-5. 💪 Opened PR [#1](https://github.com/thedtvn/AI-client-project/pull/1) in [thedtvn/AI-client-project](https://github.com/thedtvn/AI-client-project)
-6. 🗣 Commented on [#3](https://github.com/code-ga/reddit-place-clone/pull/3#issuecomment-2227298051) in [code-ga/reddit-place-clone](https://github.com/code-ga/reddit-place-clone)
-7. 💪 Opened PR [#3](https://github.com/code-ga/reddit-place-clone/pull/3) in [code-ga/reddit-place-clone](https://github.com/code-ga/reddit-place-clone)
+1. 🗣 Commented on [#3](https://github.com/tobycm/rannus-frontend/issues/3#issuecomment-2343311210) in [tobycm/rannus-frontend](https://github.com/tobycm/rannus-frontend)
+2. 💪 Opened PR [#2](https://github.com/thedtvn/AI-client-project/pull/2) in [thedtvn/AI-client-project](https://github.com/thedtvn/AI-client-project)
+3. 🎉 Merged PR [#1](https://github.com/tobycm/rannus-frontend/pull/1) in [tobycm/rannus-frontend](https://github.com/tobycm/rannus-frontend)
+4. 💪 Opened PR [#1](https://github.com/tobycm/rannus-frontend/pull/1) in [tobycm/rannus-frontend](https://github.com/tobycm/rannus-frontend)
+5. 🗣 Commented on [#1](https://github.com/thedtvn/AI-client-project/pull/1#issuecomment-2320912209) in [thedtvn/AI-client-project](https://github.com/thedtvn/AI-client-project)
+6. 💪 Opened PR [#1](https://github.com/thedtvn/AI-client-project/pull/1) in [thedtvn/AI-client-project](https://github.com/thedtvn/AI-client-project)
+7. 🗣 Commented on [#3](https://github.com/code-ga/reddit-place-clone/pull/3#issuecomment-2227298051) in [code-ga/reddit-place-clone](https://github.com/code-ga/reddit-place-clone)
 <!--END_SECTION:activity-->
 
 
