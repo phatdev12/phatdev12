@@ -20,7 +20,7 @@
                     <li>A little bit about Golang, Rust, C#, C/C++, Lua,... (I can use any language if that language has documentation)</li>
                 </ul>
                 <h2>Discord Profile</h2>
-                <span>‍ ‍ ‍ ‍ ‍</span><a href="https://discord.com/users/989176587469586482"><img src="https://discord-readme-badge.vercel.app/api?id=989176587469586482"/></a>
+                <span>‍ ‍ ‍ ‍ ‍  </span><a href="https://discord.com/users/989176587469586482"><img src="https://discord-readme-badge.vercel.app/api?id=989176587469586482"/></a>
             </td>
         </tr>
         <tr>
