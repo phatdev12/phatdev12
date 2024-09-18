@@ -28,7 +28,7 @@
                 <table align="center">
                     <td>
                         <h2 align="center">Spotify Recently Played</h2>
-                        <span> ‍   ‍   ‍   ‍   ‍   ‍   ‍   ‍   ‍   ‍   ‍   ‍   ‍   ‍   ‍   ‍   ‍     ‍   ‍   ‍   ‍   ‍     ‍   ‍   ‍   ‍   ‍  <img align="top" src="https://spotify-recently-played-readme.vercel.app/api?user=31atwjjntby7tk6j2xodxggmlio4&count=5"/>   ‍   ‍   ‍   ‍   ‍     ‍   ‍   ‍   ‍   ‍   ‍   ‍   ‍   ‍   ‍   ‍   ‍   ‍   ‍   ‍   ‍   ‍   ‍   ‍   ‍   ‍  </span>
+                        <span> ‍   ‍   ‍   ‍   ‍   ‍   ‍   ‍   ‍   ‍   ‍   ‍   ‍   ‍   ‍   ‍   ‍     ‍   ‍   ‍   ‍   ‍     ‍   ‍   ‍   ‍   ‍     ‍   ‍     ‍   ‍     ‍   ‍     ‍   ‍  <img align="top" src="https://spotify-recently-played-readme.vercel.app/api?user=31atwjjntby7tk6j2xodxggmlio4&count=5"/>   ‍   ‍     ‍   ‍     ‍   ‍   ‍   ‍   ‍     ‍   ‍   ‍   ‍   ‍   ‍   ‍   ‍   ‍   ‍   ‍   ‍   ‍   ‍   ‍   ‍   ‍   ‍   ‍   ‍   ‍     ‍   ‍     ‍   ‍  </span>
                     </td>
                 </table>
             </td>
