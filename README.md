@@ -1,6 +1,7 @@
 # About me
 
 <p><b>🤡 I am just a stupid developer 🤡</b></p>
+<p><b>I'm just an ordinary developer</b></p>
 
 <div>
     <table align="center">
