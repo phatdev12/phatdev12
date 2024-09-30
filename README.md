@@ -41,13 +41,13 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#2](https://github.com/Maginus-Developers/Rannus-Landing/issues/2) in [Maginus-Developers/Rannus-Landing](https://github.com/Maginus-Developers/Rannus-Landing)
-2. ❗ Opened issue [#2](https://github.com/Maginus-Developers/Rannus-Landing/issues/2) in [Maginus-Developers/Rannus-Landing](https://github.com/Maginus-Developers/Rannus-Landing)
-3. ❗ Opened issue [#1](https://github.com/Maginus-Developers/Rannus-Landing/issues/1) in [Maginus-Developers/Rannus-Landing](https://github.com/Maginus-Developers/Rannus-Landing)
-4. 🎉 Merged PR [#4](https://github.com/tobycm/rannus-frontend/pull/4) in [tobycm/rannus-frontend](https://github.com/tobycm/rannus-frontend)
-5. 💪 Opened PR [#4](https://github.com/tobycm/rannus-frontend/pull/4) in [tobycm/rannus-frontend](https://github.com/tobycm/rannus-frontend)
-6. 🗣 Commented on [#3](https://github.com/tobycm/rannus-frontend/issues/3#issuecomment-2343311210) in [tobycm/rannus-frontend](https://github.com/tobycm/rannus-frontend)
-7. 💪 Opened PR [#2](https://github.com/thedtvn/AI-client-project/pull/2) in [thedtvn/AI-client-project](https://github.com/thedtvn/AI-client-project)
+1. 🔒 Closed issue [#1](https://github.com/Maginus-Developers/Rannus-Landing/issues/1) in [Maginus-Developers/Rannus-Landing](https://github.com/Maginus-Developers/Rannus-Landing)
+2. ❗ Opened issue [#4](https://github.com/Maginus-Developers/Rannus-Landing/issues/4) in [Maginus-Developers/Rannus-Landing](https://github.com/Maginus-Developers/Rannus-Landing)
+3. ❗ Opened issue [#3](https://github.com/Maginus-Developers/Rannus-Landing/issues/3) in [Maginus-Developers/Rannus-Landing](https://github.com/Maginus-Developers/Rannus-Landing)
+4. 🔒 Closed issue [#2](https://github.com/Maginus-Developers/Rannus-Landing/issues/2) in [Maginus-Developers/Rannus-Landing](https://github.com/Maginus-Developers/Rannus-Landing)
+5. ❗ Opened issue [#2](https://github.com/Maginus-Developers/Rannus-Landing/issues/2) in [Maginus-Developers/Rannus-Landing](https://github.com/Maginus-Developers/Rannus-Landing)
+6. ❗ Opened issue [#1](https://github.com/Maginus-Developers/Rannus-Landing/issues/1) in [Maginus-Developers/Rannus-Landing](https://github.com/Maginus-Developers/Rannus-Landing)
+7. 🎉 Merged PR [#4](https://github.com/tobycm/rannus-frontend/pull/4) in [tobycm/rannus-frontend](https://github.com/tobycm/rannus-frontend)
 <!--END_SECTION:activity-->
 
 
