@@ -1,6 +1,6 @@
 # About me
 
-<p><b>🤡 I am just a stupid developer 🤡</b></p>
+<p><b>我正在努力学习中文，以便更好地发展自己...</b></p>
 <p><b>I'm just an ordinary developer</b></p>
 
 <div>
