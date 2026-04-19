@@ -41,13 +41,13 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/GDGoC-2026/Backend/pull/4) in [GDGoC-2026/Backend](https://github.com/GDGoC-2026/Backend)
-2. 💪 Opened PR [#4](https://github.com/GDGoC-2026/Backend/pull/4) in [GDGoC-2026/Backend](https://github.com/GDGoC-2026/Backend)
-3. 🗣 Commented on [#3](https://github.com/tobycm/rannus-frontend/issues/3#issuecomment-2343311210) in [tobycm/rannus-frontend](https://github.com/tobycm/rannus-frontend)
-4. 💪 Opened PR [#2](https://github.com/thedtvn/AI-client-project/pull/2) in [thedtvn/AI-client-project](https://github.com/thedtvn/AI-client-project)
-5. 🎉 Merged PR [#1](https://github.com/tobycm/rannus-frontend/pull/1) in [tobycm/rannus-frontend](https://github.com/tobycm/rannus-frontend)
-6. 💪 Opened PR [#1](https://github.com/tobycm/rannus-frontend/pull/1) in [tobycm/rannus-frontend](https://github.com/tobycm/rannus-frontend)
-7. 🗣 Commented on [#1](https://github.com/thedtvn/AI-client-project/pull/1#issuecomment-2320912209) in [thedtvn/AI-client-project](https://github.com/thedtvn/AI-client-project)
+1. 🎉 Merged PR [#7](https://github.com/GDGoC-2026/Backend/pull/7) in [GDGoC-2026/Backend](https://github.com/GDGoC-2026/Backend)
+2. 💪 Opened PR [#7](https://github.com/GDGoC-2026/Backend/pull/7) in [GDGoC-2026/Backend](https://github.com/GDGoC-2026/Backend)
+3. 🎉 Merged PR [#6](https://github.com/GDGoC-2026/Backend/pull/6) in [GDGoC-2026/Backend](https://github.com/GDGoC-2026/Backend)
+4. 💪 Opened PR [#6](https://github.com/GDGoC-2026/Backend/pull/6) in [GDGoC-2026/Backend](https://github.com/GDGoC-2026/Backend)
+5. 🎉 Merged PR [#5](https://github.com/GDGoC-2026/Backend/pull/5) in [GDGoC-2026/Backend](https://github.com/GDGoC-2026/Backend)
+6. 💪 Opened PR [#5](https://github.com/GDGoC-2026/Backend/pull/5) in [GDGoC-2026/Backend](https://github.com/GDGoC-2026/Backend)
+7. 🎉 Merged PR [#4](https://github.com/GDGoC-2026/Backend/pull/4) in [GDGoC-2026/Backend](https://github.com/GDGoC-2026/Backend)
 <!--END_SECTION:activity-->
 
 
