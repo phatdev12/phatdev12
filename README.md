@@ -41,13 +41,13 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/GDGoC-2026/Backend/pull/7) in [GDGoC-2026/Backend](https://github.com/GDGoC-2026/Backend)
-2. 💪 Opened PR [#7](https://github.com/GDGoC-2026/Backend/pull/7) in [GDGoC-2026/Backend](https://github.com/GDGoC-2026/Backend)
-3. 🎉 Merged PR [#6](https://github.com/GDGoC-2026/Backend/pull/6) in [GDGoC-2026/Backend](https://github.com/GDGoC-2026/Backend)
-4. 💪 Opened PR [#6](https://github.com/GDGoC-2026/Backend/pull/6) in [GDGoC-2026/Backend](https://github.com/GDGoC-2026/Backend)
-5. 🎉 Merged PR [#5](https://github.com/GDGoC-2026/Backend/pull/5) in [GDGoC-2026/Backend](https://github.com/GDGoC-2026/Backend)
-6. 💪 Opened PR [#5](https://github.com/GDGoC-2026/Backend/pull/5) in [GDGoC-2026/Backend](https://github.com/GDGoC-2026/Backend)
-7. 🎉 Merged PR [#4](https://github.com/GDGoC-2026/Backend/pull/4) in [GDGoC-2026/Backend](https://github.com/GDGoC-2026/Backend)
+1. 💪 Opened PR [#8](https://github.com/GDGoC-2026/Backend/pull/8) in [GDGoC-2026/Backend](https://github.com/GDGoC-2026/Backend)
+2. 🎉 Merged PR [#7](https://github.com/GDGoC-2026/Backend/pull/7) in [GDGoC-2026/Backend](https://github.com/GDGoC-2026/Backend)
+3. 💪 Opened PR [#7](https://github.com/GDGoC-2026/Backend/pull/7) in [GDGoC-2026/Backend](https://github.com/GDGoC-2026/Backend)
+4. 🎉 Merged PR [#6](https://github.com/GDGoC-2026/Backend/pull/6) in [GDGoC-2026/Backend](https://github.com/GDGoC-2026/Backend)
+5. 💪 Opened PR [#6](https://github.com/GDGoC-2026/Backend/pull/6) in [GDGoC-2026/Backend](https://github.com/GDGoC-2026/Backend)
+6. 🎉 Merged PR [#5](https://github.com/GDGoC-2026/Backend/pull/5) in [GDGoC-2026/Backend](https://github.com/GDGoC-2026/Backend)
+7. 💪 Opened PR [#5](https://github.com/GDGoC-2026/Backend/pull/5) in [GDGoC-2026/Backend](https://github.com/GDGoC-2026/Backend)
 <!--END_SECTION:activity-->
 
 
