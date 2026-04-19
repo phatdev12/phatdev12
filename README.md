@@ -41,8 +41,8 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/tobycm/rannus-frontend/pull/4) in [tobycm/rannus-frontend](https://github.com/tobycm/rannus-frontend)
-2. 💪 Opened PR [#4](https://github.com/tobycm/rannus-frontend/pull/4) in [tobycm/rannus-frontend](https://github.com/tobycm/rannus-frontend)
+1. 🎉 Merged PR [#4](https://github.com/GDGoC-2026/Backend/pull/4) in [GDGoC-2026/Backend](https://github.com/GDGoC-2026/Backend)
+2. 💪 Opened PR [#4](https://github.com/GDGoC-2026/Backend/pull/4) in [GDGoC-2026/Backend](https://github.com/GDGoC-2026/Backend)
 3. 🗣 Commented on [#3](https://github.com/tobycm/rannus-frontend/issues/3#issuecomment-2343311210) in [tobycm/rannus-frontend](https://github.com/tobycm/rannus-frontend)
 4. 💪 Opened PR [#2](https://github.com/thedtvn/AI-client-project/pull/2) in [thedtvn/AI-client-project](https://github.com/thedtvn/AI-client-project)
 5. 🎉 Merged PR [#1](https://github.com/tobycm/rannus-frontend/pull/1) in [tobycm/rannus-frontend](https://github.com/tobycm/rannus-frontend)
