@@ -41,13 +41,13 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/GDGoC-2026/Frontend/pull/3) in [GDGoC-2026/Frontend](https://github.com/GDGoC-2026/Frontend)
-2. 🎉 Merged PR [#2](https://github.com/GDGoC-2026/Frontend/pull/2) in [GDGoC-2026/Frontend](https://github.com/GDGoC-2026/Frontend)
-3. 💪 Opened PR [#2](https://github.com/GDGoC-2026/Frontend/pull/2) in [GDGoC-2026/Frontend](https://github.com/GDGoC-2026/Frontend)
-4. 🎉 Merged PR [#1](https://github.com/GDGoC-2026/Frontend/pull/1) in [GDGoC-2026/Frontend](https://github.com/GDGoC-2026/Frontend)
-5. 💪 Opened PR [#1](https://github.com/GDGoC-2026/Frontend/pull/1) in [GDGoC-2026/Frontend](https://github.com/GDGoC-2026/Frontend)
-6. 🎉 Merged PR [#9](https://github.com/GDGoC-2026/Backend/pull/9) in [GDGoC-2026/Backend](https://github.com/GDGoC-2026/Backend)
-7. 💪 Opened PR [#9](https://github.com/GDGoC-2026/Backend/pull/9) in [GDGoC-2026/Backend](https://github.com/GDGoC-2026/Backend)
+1. 🎉 Merged PR [#3](https://github.com/GDGoC-2026/Frontend/pull/3) in [GDGoC-2026/Frontend](https://github.com/GDGoC-2026/Frontend)
+2. 💪 Opened PR [#3](https://github.com/GDGoC-2026/Frontend/pull/3) in [GDGoC-2026/Frontend](https://github.com/GDGoC-2026/Frontend)
+3. 🎉 Merged PR [#2](https://github.com/GDGoC-2026/Frontend/pull/2) in [GDGoC-2026/Frontend](https://github.com/GDGoC-2026/Frontend)
+4. 💪 Opened PR [#2](https://github.com/GDGoC-2026/Frontend/pull/2) in [GDGoC-2026/Frontend](https://github.com/GDGoC-2026/Frontend)
+5. 🎉 Merged PR [#1](https://github.com/GDGoC-2026/Frontend/pull/1) in [GDGoC-2026/Frontend](https://github.com/GDGoC-2026/Frontend)
+6. 💪 Opened PR [#1](https://github.com/GDGoC-2026/Frontend/pull/1) in [GDGoC-2026/Frontend](https://github.com/GDGoC-2026/Frontend)
+7. 🎉 Merged PR [#9](https://github.com/GDGoC-2026/Backend/pull/9) in [GDGoC-2026/Backend](https://github.com/GDGoC-2026/Backend)
 <!--END_SECTION:activity-->
 
 
